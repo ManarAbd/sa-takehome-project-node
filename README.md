@@ -78,7 +78,7 @@ As a result, we can proceed to implement the solution by understanding how the p
 ## Sequence Diagram
 
 <p align="center">
-<img src="readme.images/sequence.png" width="80%">
+<img src="readme.images/Sequence.png" width="80%">
 </p>
 
 ## Solution Details
